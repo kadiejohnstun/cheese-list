@@ -1,6 +1,4 @@
 -Cheddar
--Mozzarella
 -Muenster
--Feta
 -Pepper Jack
 -Provolone
